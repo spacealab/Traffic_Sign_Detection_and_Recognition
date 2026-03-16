@@ -1,0 +1,22 @@
+# Environments
+.venv/
+.venv-1/
+__pycache__/
+
+# Checkpoints and runs
+.ipynb_checkpoints/
+runs/
+yolo_runs/
+yolo_runs_test/
+trained_weight/
+*.pt
+*.pth
+*.onnx
+
+# Data and outputs
+results/
+yolo_data/
+Inference/
+tensorboard/
+Self-Driving*
+dataset.zip
